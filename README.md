@@ -1,4 +1,4 @@
-![](https://imgur.com/sFbCZoN)
+<img src="https://github.com/franco-recoaro/Franco-Recoaro/blob/main/FRANCO%20RECOARO.png" width="300px">
 
 Hello there, I'm Franco Recoaro! I am currently completing my carrer Front End Developer. And when I am not working, you'll find me reading code.
 
