@@ -22,7 +22,7 @@ Hello there, I'm Franco Recoaro! I am currently completing my carrer Front End D
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![Git](https://camo.githubusercontent.com/8412e9c17280c075fd75bc4c79e044580ac5ae8140ae31849621ea6750d4daf0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3030303f266c6f676f3d476974487562)
-![Bootstrap](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Bootstrap](https://camo.githubusercontent.com/8bf4883baa8fee369cb9f599712df94ca939052bf29003ba1f28bf6957646315/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702532302d2532333135303435382e7376673f6c6f676f3d426f6f747374726170266c6f676f436f6c6f723d7768697465)
 ![SCSS](https://camo.githubusercontent.com/3451cda8ccc2cc7852a3db61ef1c637f6ff5fc4df3dd251de8e4b40cabe9631c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d534353532d3030303f266c6f676f3d53617373)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
