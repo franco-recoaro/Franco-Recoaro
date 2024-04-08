@@ -12,15 +12,7 @@ Hello there, I'm Franco Recoaro! I am currently completing my carrer Front End D
 
 ## Front End Development:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS](https://camo.githubusercontent.com/a4b2ae646208c7c6f9f282199ebfa1d80bbe93260718fec2adaee23f8b0299dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3030303f266c6f676f3d43535333)
-![TypeScript](https://camo.githubusercontent.com/cd84d2faff733f9729916b6d04ae189daaea4bc1773dd6202d5c3006cfcc8d64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030303f266c6f676f3d54797065536372697074266c6f676f436f6c6f723d303037414343)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-
-
-
+![JavaScript](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,react,ts)
 
 ## Technologies I know:
 
